@@ -1,6 +1,6 @@
 {
   "name": "react-use-animationframe",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/nils-drechsel/react-use-animationframe.git"
   },
   "author": "Nils J. D. Drechsel",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nils-drechsel/react-use-animationframe/issues"
   },
@@ -21,7 +21,5 @@
     "@types/react": "^16.9.34",
     "typescript": "^3.8.3"
   },
-  "dependencies": {
-    "fast-equals": "^2.0.0"
-  }
+  "dependencies": {}
 }
